@@ -1,6 +1,6 @@
 # RPyBridge
 
-Version of 2017-09-01
+Release 2017-09-01.
 
 Only for testing.
 
